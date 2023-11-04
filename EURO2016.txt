@@ -1,0 +1,53 @@
+{"match_id": 152569, "home_team": "Switzerland", "away_team": "Poland", "yellow_cards": 4, "red_cards": 0, "penalties": 10}
+{"match_id": 152570, "home_team": "Northern Ireland", "away_team": "Wales", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 152571, "home_team": "Portugal", "away_team": "Portugal", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 152572, "home_team": "Rep. Of Ireland", "away_team": "Rep. Of Ireland", "yellow_cards": 5, "red_cards": 1, "penalties": 1}
+{"match_id": 152573, "home_team": "Germany", "away_team": "Slovakia", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 152574, "home_team": "Belgium", "away_team": "Hungary", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 152575, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 152576, "home_team": "England", "away_team": "Iceland", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 152577, "home_team": "Poland", "away_team": "Portugal", "yellow_cards": 5, "red_cards": 0, "penalties": 9}
+{"match_id": 152578, "home_team": "Wales", "away_team": "Belgium", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 152579, "home_team": "Germany", "away_team": "Italy", "yellow_cards": 7, "red_cards": 0, "penalties": 19}
+{"match_id": 152580, "home_team": "France", "away_team": "France", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152581, "home_team": "Wales", "away_team": "Portugal", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 152582, "home_team": "Germany", "away_team": "France", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 152583, "home_team": "Portugal", "away_team": "Portugal", "yellow_cards": 10, "red_cards": 0, "penalties": 0}
+{"match_id": 152584, "home_team": "Romania", "away_team": "Romania", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 152585, "home_team": "Switzerland", "away_team": "Switzerland", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 152586, "home_team": "Wales", "away_team": "Slovakia", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 152587, "home_team": "England", "away_team": "Russia", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152588, "home_team": "Turkey", "away_team": "Croatia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 152589, "home_team": "Northern Ireland", "away_team": "Poland", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152590, "home_team": "Germany", "away_team": "Ukraine", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 152591, "home_team": "Czech Republic", "away_team": "Spain", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 152592, "home_team": "Rep. Of Ireland", "away_team": "Sweden", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152593, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 152594, "home_team": "Austria", "away_team": "Austria", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 152595, "home_team": "Portugal", "away_team": "Iceland", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152596, "home_team": "Slovakia", "away_team": "Slovakia", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 152597, "home_team": "Romania", "away_team": "Romania", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 152598, "home_team": "France", "away_team": "Albania", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152599, "home_team": "Wales", "away_team": "England", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 152600, "home_team": "Ukraine", "away_team": "Northern Ireland", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 152601, "home_team": "Germany", "away_team": "Germany", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 152602, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152603, "home_team": "Croatia", "away_team": "Croatia", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 152604, "home_team": "Spain", "away_team": "Turkey", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152605, "home_team": "Rep. Of Ireland", "away_team": "Belgium", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152606, "home_team": "Iceland", "away_team": "Iceland", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 152607, "home_team": "Portugal", "away_team": "Portugal", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 152608, "home_team": "France", "away_team": "France", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152609, "home_team": "Albania", "away_team": "Albania", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 152610, "home_team": "Slovakia", "away_team": "England", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152611, "home_team": "Wales", "away_team": "Wales", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 152612, "home_team": "Ukraine", "away_team": "Ukraine", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 152613, "home_team": "Germany", "away_team": "Germany", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 152614, "home_team": "Spain", "away_team": "Croatia", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 152615, "home_team": "Turkey", "away_team": "Turkey", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 152616, "home_team": "Hungary", "away_team": "Hungary", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 152617, "home_team": "Iceland", "away_team": "Iceland", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+Error processing match ID 152618: {'message': 'You have exceeded the rate limit per minute for your plan, BASIC, by the API provider'}
+{"match_id": 152617, "home_team": "Iceland", "away_team": "Iceland", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 152618, "home_team": "Italy", "away_team": "Rep. Of Ireland", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 152619, "home_team": "Belgium", "away_team": "Sweden", "yellow_cards": 4, "red_cards": 0, "penalties": 0}

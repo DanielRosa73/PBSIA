@@ -1,0 +1,380 @@
+{"match_id": 185545, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185546, "home_team": "Guingamp", "away_team": "Nantes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185547, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185548, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185549, "home_team": "Caen", "away_team": "Marseille", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185550, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185551, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185552, "home_team": "Reims", "away_team": "Bordeaux", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185553, "home_team": "Saint Etienne", "away_team": "Toulouse", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185554, "home_team": "Lorient", "away_team": "Lyon", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185555, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185556, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185557, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185558, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185559, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 8, "red_cards": 1, "penalties": 1}
+{"match_id": 185560, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185561, "home_team": "Rennes", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185562, "home_team": "Reims", "away_team": "Marseille", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185563, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185564, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185565, "home_team": "Paris Saint Germain", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185566, "home_team": "Rennes", "away_team": "Lyon", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185567, "home_team": "Nantes", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185568, "home_team": "Angers", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185569, "home_team": "Caen", "away_team": "Nice", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185570, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185571, "home_team": "Toulouse", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185572, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185573, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185574, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185575, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185576, "home_team": "Lyon", "away_team": "Lyon", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185577, "home_team": "Nice", "away_team": "Angers", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185578, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185579, "home_team": "Lille", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185580, "home_team": "Reims", "away_team": "Lorient", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185581, "home_team": "Toulouse", "away_team": "Rennes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185582, "home_team": "Bastia", "away_team": "Saint Etienne", "yellow_cards": 2, "red_cards": 2, "penalties": 0}
+{"match_id": 185583, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185584, "home_team": "Paris Saint Germain", "away_team": "Monaco", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185585, "home_team": "Bordeaux", "away_team": "Paris Saint Germain", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185586, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185587, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185588, "home_team": "Angers", "away_team": "Lorient", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185589, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185590, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185591, "home_team": "Toulouse", "away_team": "Toulouse", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185592, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 185593, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 5, "red_cards": 2, "penalties": 0}
+{"match_id": 185594, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185595, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185596, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185597, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 5, "red_cards": 1, "penalties": 1}
+{"match_id": 185598, "home_team": "Guingamp", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 8, "red_cards": 1, "penalties": 0}
+{"match_id": 185599, "home_team": "Bastia", "away_team": "Nice", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185600, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 185601, "home_team": "Toulouse", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185602, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185603, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185604, "home_team": "Marseille", "away_team": "Lyon", "yellow_cards": 5, "red_cards": 1, "penalties": 1}
+{"match_id": 185605, "home_team": "Angers", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185606, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185607, "home_team": "Saint Etienne", "away_team": "Estac Troyes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185608, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185609, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185610, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185611, "home_team": "Lyon", "away_team": "Lyon", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185612, "home_team": "Toulouse", "away_team": "Marseille", "yellow_cards": 4, "red_cards": 3, "penalties": 0}
+{"match_id": 185613, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185614, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185615, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185616, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185617, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185618, "home_team": "Bastia", "away_team": "Toulouse", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185619, "home_team": "Caen", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185620, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185621, "home_team": "Angers", "away_team": "Marseille", "yellow_cards": 6, "red_cards": 0, "penalties": 2}
+{"match_id": 185622, "home_team": "Monaco", "away_team": "Guingamp", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185623, "home_team": "Montpellier", "away_team": "Lorient", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185624, "home_team": "Nice", "away_team": "Saint Etienne", "yellow_cards": 5, "red_cards": 2, "penalties": 0}
+{"match_id": 185625, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185626, "home_team": "Lyon", "away_team": "Lyon", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185627, "home_team": "Bastia", "away_team": "Angers", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185628, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185629, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185630, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185631, "home_team": "Bordeaux", "away_team": "Lorient", "yellow_cards": 2, "red_cards": 2, "penalties": 1}
+{"match_id": 185632, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185633, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 5, "red_cards": 0, "penalties": 2}
+{"match_id": 185634, "home_team": "Nantes", "away_team": "Nice", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185635, "home_team": "Monaco", "away_team": "Lyon", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185636, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185637, "home_team": "Saint Etienne", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185638, "home_team": "Guingamp", "away_team": "Lille", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185639, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185640, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185641, "home_team": "Toulouse", "away_team": "Angers", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185642, "home_team": "Lorient", "away_team": "Marseille", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185643, "home_team": "Montpellier", "away_team": "Bordeaux", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185644, "home_team": "Nice", "away_team": "Rennes", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185645, "home_team": "Nantes", "away_team": "Caen", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185646, "home_team": "Lyon", "away_team": "Toulouse", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185647, "home_team": "Lorient", "away_team": "Rennes", "yellow_cards": 4, "red_cards": 2, "penalties": 0}
+{"match_id": 185648, "home_team": "Guingamp", "away_team": "Angers", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185649, "home_team": "Gazelec FC Ajaccio", "away_team": "Nice", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185650, "home_team": "Montpellier", "away_team": "Bastia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185651, "home_team": "Monaco", "away_team": "Reims", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185652, "home_team": "Estac Troyes", "away_team": "Bordeaux", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185653, "home_team": "Lille", "away_team": "Marseille", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185654, "home_team": "Paris Saint Germain", "away_team": "Saint Etienne", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185655, "home_team": "Paris Saint Germain", "away_team": "Rennes", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185656, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185657, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 4, "red_cards": 2, "penalties": 1}
+{"match_id": 185658, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 1, "penalties": 1}
+{"match_id": 185659, "home_team": "Bordeaux", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 9, "red_cards": 1, "penalties": 0}
+{"match_id": 185660, "home_team": "Bastia", "away_team": "Caen", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185661, "home_team": "Toulouse", "away_team": "Montpellier", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185662, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185663, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185664, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185665, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185666, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185667, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 0, "red_cards": 0, "penalties": 2}
+{"match_id": 185668, "home_team": "Bastia", "away_team": "Lille", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185669, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185670, "home_team": "Guingamp", "away_team": "Caen", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185671, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185672, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185673, "home_team": "Monaco", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185674, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185675, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185676, "home_team": "Paris Saint Germain", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185677, "home_team": "Nantes", "away_team": "Monaco", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185678, "home_team": "Toulouse", "away_team": "Guingamp", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185679, "home_team": "Estac Troyes", "away_team": "Lille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185680, "home_team": "Reims", "away_team": "Montpellier", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185681, "home_team": "Bastia", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185682, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 2, "red_cards": 1, "penalties": 0}
+{"match_id": 185683, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185684, "home_team": "Marseille", "away_team": "Saint Etienne", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185685, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185686, "home_team": "Paris Saint Germain", "away_team": "Estac Troyes", "yellow_cards": 1, "red_cards": 0, "penalties": 1}
+{"match_id": 185687, "home_team": "Lille", "away_team": "Angers", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185688, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185689, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185690, "home_team": "Rennes", "away_team": "Reims", "yellow_cards": 9, "red_cards": 1, "penalties": 0}
+{"match_id": 185691, "home_team": "Toulouse", "away_team": "Nice", "yellow_cards": 4, "red_cards": 1, "penalties": 1}
+{"match_id": 185692, "home_team": "Saint Etienne", "away_team": "Guingamp", "yellow_cards": 7, "red_cards": 1, "penalties": 1}
+{"match_id": 185693, "home_team": "Caen", "away_team": "Bordeaux", "yellow_cards": 8, "red_cards": 1, "penalties": 0}
+{"match_id": 185694, "home_team": "Marseille", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185695, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185696, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185697, "home_team": "Lyon", "away_team": "Nantes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185698, "home_team": "Caen", "away_team": "Monaco", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185699, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 10, "red_cards": 2, "penalties": 0}
+{"match_id": 185700, "home_team": "Toulouse", "away_team": "Toulouse", "yellow_cards": 5, "red_cards": 2, "penalties": 0}
+{"match_id": 185701, "home_team": "Montpellier", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185702, "home_team": "Bordeaux", "away_team": "Bastia", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185703, "home_team": "Lille", "away_team": "Saint Etienne", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185704, "home_team": "Rennes", "away_team": "Marseille", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185705, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 1, "penalties": 1}
+{"match_id": 185706, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185707, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185708, "home_team": "Bastia", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185709, "home_team": "Lille", "away_team": "Caen", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185710, "home_team": "Reims", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185711, "home_team": "Toulouse", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185712, "home_team": "Montpellier", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185713, "home_team": "Bordeaux", "away_team": "Guingamp", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185714, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185715, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185716, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 4, "red_cards": 1, "penalties": 1}
+{"match_id": 185717, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185718, "home_team": "Toulouse", "away_team": "Nantes", "yellow_cards": 8, "red_cards": 1, "penalties": 0}
+{"match_id": 185719, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185720, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 7, "red_cards": 1, "penalties": 0}
+{"match_id": 185721, "home_team": "Monaco", "away_team": "Saint Etienne", "yellow_cards": 7, "red_cards": 1, "penalties": 1}
+{"match_id": 185722, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185723, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 6, "red_cards": 1, "penalties": 1}
+{"match_id": 185724, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185725, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185726, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185727, "home_team": "Guingamp", "away_team": "Rennes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185728, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185729, "home_team": "Nantes", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185730, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185731, "home_team": "Toulouse", "away_team": "Toulouse", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185732, "home_team": "Saint Etienne", "away_team": "Angers", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185733, "home_team": "Lyon", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185734, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185735, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185736, "home_team": "Lyon", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185737, "home_team": "Angers", "away_team": "Caen", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185738, "home_team": "Gazelec FC Ajaccio", "away_team": "Monaco", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185739, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185740, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185741, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185742, "home_team": "Saint Etienne", "away_team": "Nantes", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185743, "home_team": "Lille", "away_team": "Nice", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185744, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185745, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 5, "red_cards": 0, "penalties": 2}
+{"match_id": 185746, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185747, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185748, "home_team": "Estac Troyes", "away_team": "Rennes", "yellow_cards": 4, "red_cards": 0, "penalties": 2}
+{"match_id": 185749, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185750, "home_team": "Gazelec FC Ajaccio", "away_team": "Reims", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185751, "home_team": "Bastia", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 2, "penalties": 0}
+{"match_id": 185752, "home_team": "Monaco", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185753, "home_team": "Marseille", "away_team": "Caen", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185754, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185755, "home_team": "Gazelec FC Ajaccio", "away_team": "Rennes", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185756, "home_team": "Paris Saint Germain", "away_team": "Angers", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185757, "home_team": "Bastia", "away_team": "Guingamp", "yellow_cards": 1, "red_cards": 2, "penalties": 1}
+{"match_id": 185758, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185759, "home_team": "Estac Troyes", "away_team": "Lille", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185760, "home_team": "Caen", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185761, "home_team": "Nice", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185762, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185763, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185764, "home_team": "Lyon", "away_team": "Marseille", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185765, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 2, "red_cards": 1, "penalties": 0}
+{"match_id": 185766, "home_team": "Angers", "away_team": "Monaco", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185767, "home_team": "Nantes", "away_team": "Estac Troyes", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185768, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185769, "home_team": "Gazelec FC Ajaccio", "away_team": "Montpellier", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 185770, "home_team": "Bastia", "away_team": "Lyon", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185771, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 7, "red_cards": 1, "penalties": 1}
+{"match_id": 185772, "home_team": "Caen", "away_team": "Nice", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185773, "home_team": "Bordeaux", "away_team": "Rennes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185774, "home_team": "Paris Saint Germain", "away_team": "Saint Etienne", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185775, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185776, "home_team": "Marseille", "away_team": "Montpellier", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185777, "home_team": "Guingamp", "away_team": "Estac Troyes", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185778, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 2, "red_cards": 1, "penalties": 0}
+{"match_id": 185779, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185780, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185781, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185782, "home_team": "Angers", "away_team": "Reims", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185783, "home_team": "Paris Saint Germain", "away_team": "Lorient", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185784, "home_team": "Saint Etienne", "away_team": "Rennes", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185785, "home_team": "Nice", "away_team": "Monaco", "yellow_cards": 10, "red_cards": 1, "penalties": 0}
+{"match_id": 185786, "home_team": "Lyon", "away_team": "Angers", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185787, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 2, "red_cards": 1, "penalties": 0}
+{"match_id": 185788, "home_team": "Guingamp", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185789, "home_team": "Estac Troyes", "away_team": "Bastia", "yellow_cards": 2, "red_cards": 3, "penalties": 1}
+{"match_id": 185790, "home_team": "Reims", "away_team": "Caen", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185791, "home_team": "Nantes", "away_team": "Toulouse", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185792, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 7, "red_cards": 1, "penalties": 1}
+{"match_id": 185793, "home_team": "Bordeaux", "away_team": "Saint Etienne", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185794, "home_team": "Paris Saint Germain", "away_team": "Marseille", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185795, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185796, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185797, "home_team": "Gazelec FC Ajaccio", "away_team": "Estac Troyes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185798, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185799, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 4, "red_cards": 1, "penalties": 1}
+{"match_id": 185800, "home_team": "Toulouse", "away_team": "Montpellier", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185801, "home_team": "Reims", "away_team": "Bastia", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185802, "home_team": "Caen", "away_team": "Lyon", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185803, "home_team": "Monaco", "away_team": "Saint Etienne", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185804, "home_team": "Marseille", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185805, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185806, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185807, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185808, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185809, "home_team": "Guingamp", "away_team": "Lorient", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185810, "home_team": "Gazelec FC Ajaccio", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185811, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185812, "home_team": "Rennes", "away_team": "Caen", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185813, "home_team": "Lille", "away_team": "Lyon", "yellow_cards": 12, "red_cards": 2, "penalties": 0}
+{"match_id": 185814, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185815, "home_team": "Nice", "away_team": "Bastia", "yellow_cards": 8, "red_cards": 1, "penalties": 0}
+{"match_id": 185816, "home_team": "Lille", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185817, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 6, "red_cards": 1, "penalties": 2}
+{"match_id": 185818, "home_team": "Lorient", "away_team": "Estac Troyes", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185819, "home_team": "Bordeaux", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185820, "home_team": "Rennes", "away_team": "Toulouse", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185821, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185822, "home_team": "Caen", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185823, "home_team": "Lyon", "away_team": "Paris Saint Germain", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185824, "home_team": "Gazelec FC Ajaccio", "away_team": "Marseille", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185825, "home_team": "Monaco", "away_team": "Caen", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185826, "home_team": "Montpellier", "away_team": "Paris Saint Germain", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185827, "home_team": "Saint Etienne", "away_team": "Angers", "yellow_cards": 8, "red_cards": 0, "penalties": 0}
+{"match_id": 185828, "home_team": "Gazelec FC Ajaccio", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185829, "home_team": "Reims", "away_team": "Lille", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185830, "home_team": "Nice", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185831, "home_team": "Bastia", "away_team": "Lorient", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 185832, "home_team": "Marseille", "away_team": "Toulouse", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185833, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185834, "home_team": "Lyon", "away_team": "Guingamp", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185835, "home_team": "Reims", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185836, "home_team": "Marseille", "away_team": "Lorient", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185837, "home_team": "Guingamp", "away_team": "Saint Etienne", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185838, "home_team": "Caen", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185839, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185840, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185841, "home_team": "Toulouse", "away_team": "Bordeaux", "yellow_cards": 6, "red_cards": 1, "penalties": 2}
+{"match_id": 185842, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 1, "red_cards": 1, "penalties": 0}
+{"match_id": 185843, "home_team": "Angers", "away_team": "Nantes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185844, "home_team": "Rennes", "away_team": "Lyon", "yellow_cards": 9, "red_cards": 0, "penalties": 0}
+{"match_id": 185845, "home_team": "Rennes", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185846, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185847, "home_team": "Lorient", "away_team": "Angers", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185848, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185849, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185850, "home_team": "Guingamp", "away_team": "Reims", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185851, "home_team": "Nantes", "away_team": "Lyon", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185852, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185853, "home_team": "Nice", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185854, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 2, "red_cards": 0, "penalties": 1}
+{"match_id": 185855, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185856, "home_team": "Paris Saint Germain", "away_team": "Nice", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185857, "home_team": "Guingamp", "away_team": "Montpellier", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185858, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185859, "home_team": "Saint Etienne", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185860, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185861, "home_team": "Toulouse", "away_team": "Toulouse", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185862, "home_team": "Lille", "away_team": "Nantes", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185863, "home_team": "Bastia", "away_team": "Marseille", "yellow_cards": 5, "red_cards": 1, "penalties": 1}
+{"match_id": 185864, "home_team": "Lorient", "away_team": "Lyon", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185865, "home_team": "Lyon", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185866, "home_team": "Guingamp", "away_team": "Paris Saint Germain", "yellow_cards": 1, "red_cards": 0, "penalties": 1}
+{"match_id": 185867, "home_team": "Gazelec FC Ajaccio", "away_team": "Angers", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185868, "home_team": "Saint Etienne", "away_team": "Estac Troyes", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185869, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 1, "red_cards": 0, "penalties": 1}
+{"match_id": 185870, "home_team": "Reims", "away_team": "Reims", "yellow_cards": 5, "red_cards": 1, "penalties": 0}
+{"match_id": 185871, "home_team": "Bastia", "away_team": "Toulouse", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 185872, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 3, "red_cards": 2, "penalties": 0}
+{"match_id": 185873, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 0, "red_cards": 0, "penalties": 1}
+{"match_id": 185874, "home_team": "Bordeaux", "away_team": "Marseille", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185875, "home_team": "Nice", "away_team": "Lyon", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185876, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185877, "home_team": "Reims", "away_team": "Estac Troyes", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185878, "home_team": "Angers", "away_team": "Bordeaux", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185879, "home_team": "Toulouse", "away_team": "Toulouse", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185880, "home_team": "Gazelec FC Ajaccio", "away_team": "Lille", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185881, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185882, "home_team": "Montpellier", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185883, "home_team": "Rennes", "away_team": "Guingamp", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185884, "home_team": "Monaco", "away_team": "Marseille", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185885, "home_team": "Nice", "away_team": "Reims", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185886, "home_team": "Lyon", "away_team": "Toulouse", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185887, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185888, "home_team": "Lorient", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185889, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 3, "red_cards": 2, "penalties": 0}
+{"match_id": 185890, "home_team": "Bastia", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 185891, "home_team": "Montpellier", "away_team": "Estac Troyes", "yellow_cards": 2, "red_cards": 1, "penalties": 0}
+{"match_id": 185892, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185893, "home_team": "Angers", "away_team": "Lille", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185894, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185895, "home_team": "Rennes", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185896, "home_team": "Nantes", "away_team": "Nantes", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185897, "home_team": "Saint Etienne", "away_team": "Saint Etienne", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 185898, "home_team": "Monaco", "away_team": "Monaco", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185899, "home_team": "Estac Troyes", "away_team": "Bordeaux", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185900, "home_team": "Lille", "away_team": "Lille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185901, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 185902, "home_team": "Montpellier", "away_team": "Reims", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185903, "home_team": "Lyon", "away_team": "Gazelec FC Ajaccio", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185904, "home_team": "Angers", "away_team": "Marseille", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 185905, "home_team": "Bordeaux", "away_team": "Bordeaux", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 185906, "home_team": "Caen", "away_team": "Caen", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 185907, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185908, "home_team": "Guingamp", "away_team": "Guingamp", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185909, "home_team": "Rennes", "away_team": "Rennes", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 185910, "home_team": "Nice", "away_team": "Saint Etienne", "yellow_cards": 7, "red_cards": 2, "penalties": 0}
+{"match_id": 185911, "home_team": "Reims", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185912, "home_team": "Lyon", "away_team": "Lyon", "yellow_cards": 6, "red_cards": 1, "penalties": 0}
+{"match_id": 185913, "home_team": "Bastia", "away_team": "Bastia", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185914, "home_team": "Estac Troyes", "away_team": "Estac Troyes", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185915, "home_team": "Angers", "away_team": "Angers", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 185916, "home_team": "Monaco", "away_team": "Montpellier", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185917, "home_team": "Lille", "away_team": "Saint Etienne", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 185918, "home_team": "Nice", "away_team": "Nice", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185919, "home_team": "Estac Troyes", "away_team": "Marseille", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 185920, "home_team": "Lorient", "away_team": "Lorient", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185921, "home_team": "Paris Saint Germain", "away_team": "Paris Saint Germain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 185922, "home_team": "Caen", "away_team": "Bordeaux", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 185923, "home_team": "Reims", "away_team": "Lyon", "yellow_cards": 6, "red_cards": 0, "penalties": 1}
+{"match_id": 185924, "home_team": "Bastia", "away_team": "Rennes", "yellow_cards": 8, "red_cards": 0, "penalties": 0}

@@ -1,0 +1,67 @@
+{"match_id": 569448, "home_team": "Georgia", "away_team": "Belarus", "yellow_cards": 5, "red_cards": 0, "penalties": 1}
+{"match_id": 569449, "home_team": "FYR Macedonia", "away_team": "FYR Macedonia", "yellow_cards": 7, "red_cards": 0, "penalties": 0}
+{"match_id": 569450, "home_team": "Israel", "away_team": "Israel", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 569451, "home_team": "Norway", "away_team": "Norway", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 569452, "home_team": "Bosnia & Herzegovina", "away_team": "Bosnia & Herzegovina", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 569453, "home_team": "Rep. Of Ireland", "away_team": "Rep. Of Ireland", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 569454, "home_team": "Iceland", "away_team": "Iceland", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 569455, "home_team": "Hungary", "away_team": "Bulgaria", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 640594, "home_team": "FYR Macedonia", "away_team": "FYR Macedonia", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 640595, "home_team": "Serbia", "away_team": "Scotland", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 640596, "home_team": "Slovakia", "away_team": "Slovakia", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 640597, "home_team": "Iceland", "away_team": "Iceland", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 657674, "home_team": "Turkey", "away_team": "Italy", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657675, "home_team": "Switzerland", "away_team": "Wales", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 657676, "home_team": "Finland", "away_team": "Denmark", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657677, "home_team": "Belgium", "away_team": "Belgium", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 657678, "home_team": "Croatia", "away_team": "Croatia", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657679, "home_team": "Austria", "away_team": "FYR Macedonia", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 657680, "home_team": "Ukraine", "away_team": "Netherlands", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 657681, "home_team": "Czech Republic", "away_team": "Scotland", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 657682, "home_team": "Slovakia", "away_team": "Slovakia", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 657683, "home_team": "Sweden", "away_team": "Spain", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 657684, "home_team": "Portugal", "away_team": "Hungary", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 657685, "home_team": "Germany", "away_team": "France", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 657686, "home_team": "Finland", "away_team": "Russia", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 657687, "home_team": "Wales", "away_team": "Turkey", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657688, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657689, "home_team": "Ukraine", "away_team": "Ukraine", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 657690, "home_team": "Denmark", "away_team": "Belgium", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657691, "home_team": "Austria", "away_team": "Netherlands", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 657692, "home_team": "Sweden", "away_team": "Sweden", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 657693, "home_team": "Croatia", "away_team": "Czech Republic", "yellow_cards": 4, "red_cards": 0, "penalties": 1}
+{"match_id": 657694, "home_team": "Scotland", "away_team": "England", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657695, "home_team": "France", "away_team": "Hungary", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657696, "home_team": "Portugal", "away_team": "Germany", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657697, "home_team": "Spain", "away_team": "Poland", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+Error processing match ID 657698: {'message': 'You have exceeded the rate limit per minute for your plan, BASIC, by the API provider'}
+{"match_id": 657697, "home_team": "Spain", "away_team": "Poland", "yellow_cards": 6, "red_cards": 0, "penalties": 0}
+{"match_id": 657698, "home_team": "Switzerland", "away_team": "Switzerland", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657699, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 657700, "home_team": "Austria", "away_team": "Austria", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 657701, "home_team": "FYR Macedonia", "away_team": "Netherlands", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657702, "home_team": "Russia", "away_team": "Denmark", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 657703, "home_team": "Finland", "away_team": "Finland", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 657704, "home_team": "Croatia", "away_team": "Croatia", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 657705, "home_team": "England", "away_team": "Czech Republic", "yellow_cards": 1, "red_cards": 0, "penalties": 0}
+{"match_id": 657706, "home_team": "Sweden", "away_team": "Sweden", "yellow_cards": 3, "red_cards": 0, "penalties": 0}
+{"match_id": 657707, "home_team": "Slovakia", "away_team": "Spain", "yellow_cards": 4, "red_cards": 0, "penalties": 0}
+{"match_id": 657708, "home_team": "France", "away_team": "Portugal", "yellow_cards": 4, "red_cards": 0, "penalties": 3}
+{"match_id": 657709, "home_team": "Hungary", "away_team": "Hungary", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+Error processing match ID 713160: {'message': 'You have exceeded the rate limit per minute for your plan, BASIC, by the API provider'}
+{"match_id": 657709, "home_team": "Hungary", "away_team": "Hungary", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 713160, "home_team": "Wales", "away_team": "Denmark", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 713161, "home_team": "Austria", "away_team": "Italy", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 713471, "home_team": "Netherlands", "away_team": "Netherlands", "yellow_cards": 3, "red_cards": 1, "penalties": 0}
+{"match_id": 713472, "home_team": "Croatia", "away_team": "Spain", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 713473, "home_team": "Belgium", "away_team": "Portugal", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 713474, "home_team": "Switzerland", "away_team": "France", "yellow_cards": 7, "red_cards": 0, "penalties": 10}
+{"match_id": 713475, "home_team": "England", "away_team": "Germany", "yellow_cards": 5, "red_cards": 0, "penalties": 0}
+{"match_id": 713476, "home_team": "Ukraine", "away_team": "Sweden", "yellow_cards": 4, "red_cards": 1, "penalties": 0}
+{"match_id": 718186, "home_team": "Denmark", "away_team": "Denmark", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 718242, "home_team": "Italy", "away_team": "Italy", "yellow_cards": 3, "red_cards": 0, "penalties": 1}
+{"match_id": 718243, "home_team": "Spain", "away_team": "Switzerland", "yellow_cards": 3, "red_cards": 1, "penalties": 9}
+{"match_id": 718252, "home_team": "England", "away_team": "Ukraine", "yellow_cards": 0, "red_cards": 0, "penalties": 0}
+{"match_id": 721122, "home_team": "Spain", "away_team": "Italy", "yellow_cards": 3, "red_cards": 0, "penalties": 9}
+{"match_id": 721123, "home_team": "Denmark", "away_team": "England", "yellow_cards": 2, "red_cards": 0, "penalties": 0}
+{"match_id": 723370, "home_team": "England", "away_team": "Italy", "yellow_cards": 6, "red_cards": 0, "penalties": 10}
